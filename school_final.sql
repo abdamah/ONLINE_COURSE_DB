@@ -1,9 +1,9 @@
--- DROP DATABASE sql_school3
+-- DROP DATABASE sql_school
 DROP DATABASE IF EXISTS school;
--- CREATE DATABASE sql_school3
+-- CREATE DATABASE sql_school
 CREATE DATABASE IF NOT EXISTS school;
 
--- USE sql_school3
+-- USE sql_school
 USE school;
 
 -- DROP TABLE stude
