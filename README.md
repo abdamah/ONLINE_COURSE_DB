@@ -4,9 +4,9 @@
 
 ### Installation proccess
 
-1. Download the MySQL database ![download](https://dev.mysql.com/downloads/installer/)
+1. Download the MySQL database [download](https://dev.mysql.com/downloads/installer/)
 2. Make sure that the server is up and running
-3. Download workbench ![here](https://dev.mysql.com/downloads/workbench/)
+3. Download workbench [here](https://dev.mysql.com/downloads/workbench/)
 4. Connect workbench to MySQL using your installation credentials
 5. Test your connection is working or not.
 
