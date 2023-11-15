@@ -10,7 +10,7 @@
 4. Connect workbench to MySQL using your installation credentials
 5. Test your connection is working or not.
 
-## Two to create database:
+## Two ways to create database:
 
 #### 1. Upload db model
 
