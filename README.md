@@ -10,7 +10,9 @@
 4. Connect workbench to MySQL using your installation credentials
 5. Test your connection is working or not.
 
-### Upload db model
+## Two to create database:
+
+#### 1. Upload db model
 
 - Goto: file-> open model -> select file
 - Click open
@@ -19,7 +21,7 @@
 - In the meantime you can save script on clipboard
 - It will create database in physical model.
 
-### Upload db script
+#### 2. Upload db script
 
 - Goto: file-> open sql script -> select the file-> open
 - Run the script and it will create database physically.
